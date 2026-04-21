@@ -1,54 +1,84 @@
-# Gogelbet
-
-Selamat datang di **Gogelbet** – platform digital terpercaya yang dirancang untuk memberikan pengalaman hiburan modern dengan berbagai peluang menarik. Gogelbet menghadirkan lingkungan yang aman, nyaman, dan berfokus pada kepuasan pengguna.
+# ✨ Gogelbet
 
 <p align="center">
-  <a href="https://gogelbet.com/login">
-    <img src="https://img.shields.io/badge/🔐 LOGIN-SEKARANG-00A86B?style=for-the-badge&logo=google-chrome&logoColor=white&color=00A86B" alt="Login">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gogelbet.com/daftar">
-    <img src="https://img.shields.io/badge/📝 DAFTAR-SEKARANG-FF9800?style=for-the-badge&logo=user-plus&logoColor=white&color=FF9800" alt="Daftar">
-  </a>
+  <img src="https://img.shields.io/badge/🏆 TERPERCAYA-2025-gold?style=for-the-badge" alt="Terpercaya">
+  <img src="https://img.shields.io/badge/✅ RESMI-Berlisensi-blue?style=for-the-badge" alt="Resmi">
+  <img src="https://img.shields.io/badge/🛡️ AMAN & NYAMAN-brightgreen?style=for-the-badge" alt="Aman">
 </p>
 
----
+<p align="center">
+  <strong>Platform digital terpercaya untuk hiburan modern dengan peluang menarik</strong>
+</p>
 
-## Tentang Gogelbet
-
-Gogelbet adalah merek yang berkembang pesat di dunia hiburan daring. Dengan antarmuka yang ramah pengguna dan sistem yang transparan, Gogelbet menjadi pilihan utama bagi mereka yang mencari kombinasi antara keseruan dan kemudahan akses.
-
-## Fitur Unggulan
-
-- **Keamanan Terjamin** – Sistem enkripsi terkini untuk melindungi data dan privasi Anda.
-- **Akses Mudah** – Tersedia di berbagai perangkat, baik desktop maupun mobile.
-- **Layanan 24/7** – Tim dukungan pelanggan siap membantu kapan saja.
-- **Beragam Pilihan** – Dari permainan klasik hingga inovasi terbaru, semua tersedia dalam satu platform.
-
-## Mulai Bergabung
-
-Bergabung dengan Gogelbet sangat mudah:
-
-1. Kunjungi situs resmi Gogelbet.
-2. Lakukan pendaftaran dengan mengisi data yang diperlukan.
-3. Verifikasi akun Anda.
-4. Nikmati berbagai fitur dan penawaran menarik.
+<br>
 
 <p align="center">
   <a href="https://gogelbet.com/login" style="text-decoration: none;">
-    <button style="background-color: #00A86B; color: white; padding: 12px 30px; border: none; border-radius: 8px; font-size: 18px; cursor: pointer; margin-right: 20px;">🔐 LOGIN</button>
+    <button style="
+      background: linear-gradient(135deg, #00C853 0%, #009624 100%);
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 14px 42px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(0,200,83,0.3);
+      transition: all 0.3s ease;
+      margin-right: 20px;
+      letter-spacing: 1px;
+    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 28px rgba(0,200,83,0.5)';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,200,83,0.3)';">
+      🔐 LOGIN SEKARANG
+    </button>
   </a>
+  
   <a href="https://gogelbet.com/daftar" style="text-decoration: none;">
-    <button style="background-color: #FF9800; color: white; padding: 12px 30px; border: none; border-radius: 8px; font-size: 18px; cursor: pointer;">📝 DAFTAR</button>
+    <button style="
+      background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 14px 42px;
+      border: none;
+      border-radius: 50px;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(255,152,0,0.3);
+      transition: all 0.3s ease;
+      letter-spacing: 1px;
+    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 28px rgba(255,152,0,0.5)';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(255,152,0,0.3)';">
+      📝 DAFTAR SEKARANG
+    </button>
   </a>
 </p>
 
-## Komitmen Kami
-
-Gogelbet berkomitmen untuk menyediakan lingkungan yang **adil**, **transparan**, dan **bertanggung jawab**. Kami mendorong pengguna untuk selalu menikmati layanan dengan bijak.
+<br>
 
 ---
 
-> **Catatan:** Ganti `https://gogelbet.com/login` dan `https://gogelbet.com/daftar` dengan URL asli jika sudah tersedia.
+## 🌟 Tentang Gogelbet
 
-© 2025 Gogelbet – Hiburan cerdas, kendali di tangan Anda.
+**Gogelbet** adalah merek terpercaya yang berkembang pesat di dunia hiburan daring. Dengan antarmuka modern, sistem transparan, dan pelayanan premium, Gogelbet menjadi pilihan utama bagi Anda yang menginginkan **keseruan tanpa batas** dengan **kenyamanan maksimal**.
+
+---
+
+## ✨ Fitur Unggulan
+
+| Fitur | Deskripsi |
+|-------|------------|
+| 🔒 **Keamanan Kelas Atas** | Enkripsi SSL 256-bit & perlindungan data pribadi |
+| 📱 **Akses Multi-Platform** | Desktop, tablet, maupun smartphone – semua mulus |
+| 🕒 **Layanan 24/7** | CS profesional siap membantu kapan pun Anda butuh |
+| 🎮 **Ribuan Pilihan** | Dari klasik hingga paling inovatif, semua tersedia |
+| 💰 **Bonus & Promo** | Penawaran spesial untuk member baru & setia |
+
+---
+
+## 🚀 Cara Bergabung
+
+```bash
+1. Klik tombol DAFTAR di atas
+2. Isi form pendaftaran (kurang dari 3 menit)
+3. Verifikasi akun Anda
+4. Login dan nikmati semua fitur Gogelbet
